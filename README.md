@@ -18,4 +18,4 @@ Bu proje, kitaplar ve yazarlar için temel CRUD işlemlerini gerçekleştiren bi
 - .NET 9
 
 ![Kitap Yönetim Sistemi Görseli](![Ekran görüntüsü 2025-05-05 200439](https://github.com/user-attachments/assets/9a19253b-f05f-4233-b41e-db1c0ac1656f)
-) 
+ 
