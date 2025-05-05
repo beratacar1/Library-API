@@ -16,6 +16,10 @@ Bu proje, kitaplar ve yazarlar için temel CRUD işlemlerini gerçekleştiren bi
 - SQL Server
 - LINQ
 - .NET 9
+- ## 🔐 Güvenlik
+- Rol Tabanlı Yetkilendirme (Role-Based Authorization)
+- JWT (JSON Web Token) ile Kimlik Doğrulama
+
 
 ![Kitap Yönetim Sistemi Görseli](![Ekran görüntüsü 2025-05-05 200439](https://github.com/user-attachments/assets/9a19253b-f05f-4233-b41e-db1c0ac1656f)
  
